@@ -1,0 +1,12 @@
+print ("Kill Yourself")
+
+If msg=("Suicide")
+then humanoid.Health=50
+wait (0.5)
+instance new-msg
+msg=("Have a plesant death!")
+humanoid.Health=0
+
+end
+
+end 
